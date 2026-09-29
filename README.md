@@ -76,3 +76,4 @@ jupyter notebook SVC_GridSearchCV_AVC.ipynb
 ## 👤 Autor
 
 **Gabriel Figueiredo de Andrade**
+**Nelson Braga Schiavi**
