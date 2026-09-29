@@ -38,7 +38,7 @@ Projeto de classificação que usa um **Support Vector Classifier (SVC)** com ot
 
 ### Google Colab
 
-1. Abra o arquivo `SVC_GridSearchCV_AVC.ipynb` no [Google Colab](https://colab.research.google.com/).
+1. Abra o arquivo `SVC_GridSearchCV_AVC.ipynb` no [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/18DBZx04Z569giTFAtxZc3fGzeEbtOh65?usp=sharing).
 2. Baixe o dataset no [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
 3. Na barra lateral, clique no ícone de pasta 📁 e faça upload do arquivo `healthcare-dataset-stroke-data.csv`.
 4. Execute todas as células (`Ambiente de execução > Executar tudo`).
