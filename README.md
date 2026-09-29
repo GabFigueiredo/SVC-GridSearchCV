@@ -60,7 +60,7 @@ jupyter notebook SVC_GridSearchCV_AVC.ipynb
 ## 📁 Estrutura do repositório
 
 ```
-├── SVC_GridSearchCV_AVC.ipynb   # Notebook com todo o projeto
+├── DataScience_SVC_+_GridSearchCV.ipynb   # Notebook com todo o projeto
 └── README.md                    # Este arquivo
 ```
 
